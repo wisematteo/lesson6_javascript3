@@ -13,8 +13,7 @@ Web Application Development
 (using dynamic webpages by javascript and images to create a loop with car images.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/wisematteo/lesson6_javascript3.git)
 
 ### Lessons Learned in the Assignment:
 1. (arrays and lists and how to find them)
